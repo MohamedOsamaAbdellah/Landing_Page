@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [About](#about)
-*[HowToUse](#how_to_use)
+* [HowToUse](#how_to_use)
 
 ## Instructions
 
@@ -22,4 +22,4 @@ The project consists of number of sections and a navigational menu consists of t
 
 ## How To Use
 
-It's so simple , just click on any nav item you want to watch its corresponding section and the viewport will smoothly scrolling to the your section.
+It's so simple 🤩🤩 , just click on any nav item you want to watch its corresponding section and the viewport will smoothly scrolling to the your section 😎😎.
